@@ -1,3 +1,3 @@
 # Machine learning
-personality prediction using machine learning:
+Personality prediction using machine learning:
 Personality refers to a person's unique set of characteristics that influence their habits, behaviours, attitudes, and cognitive patterns. Text available on social networking sites can be used to automatically recognise an individual's personality qualities. The XGBoost classifier is used in this proposed work to predict four personality traits based on the Myers- Briggs Type Indicator (MBTI) model, namely Introversion-Extroversion(I-E), iNtuitionSensing(N-S), Feeling-Thinking(F-T), and Judging-Perceiving(J-P) from input text using Machine Learning Technique. 
